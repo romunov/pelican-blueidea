@@ -353,6 +353,8 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#extras .blogroll {
 		float: left;
 		width: 615px;
+		margin-top: 0.3em;
+		margin-left: 0.25em;
 	}
 	
 	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
@@ -361,6 +363,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#extras .social {
 		float: right;
 		width: 175px;
+		margin-top: 0.3em;
 	}
 	
 	#extras div[class='social'] a {
